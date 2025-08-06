@@ -1,65 +1,18 @@
-# Hi, I'm Ardian Rahman
-
-<div align="right">
-  <a href="#">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://aardian.my.id">
-    <img width="100" src="./asset/logo.svg" alt="logo" />
-  </a>
-</p>
-
-<p align="center" style="margin: -20px 0 30px;">
-  <a href="https://github.com/ariafatah0711" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ariafatah" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ariaf.my.id" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/6281553817745" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="22px" width="22px" />
-  </a>
-</p>
-
+# 💫 About Me:
 I am 17 years old and am currently pursuing vocational education at SMKN 1 Jakarta in the Computer and Network Engineering Department. In addition, I am also pursuing Tahfidz education at Rumah Tahfidz Asy Syuhada, and I am very interested in exploring and learning about the developments and advances in technology that are currently taking place.
 
-<p align="center"> <a href="#">
-   <!-- Bahasa Pemrograman -->
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <!-- Frameworks dan Libraries -->
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-    <!-- Tools dan Platform -->
-    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <!-- Networking dan DevOps -->
-    <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-    <img alt="MikroTik" src="https://img.shields.io/badge/-MikroTik-00A9E0?style=flat-square&logo=mikrotik&logoColor=white" />
-    <!-- Sistem Operasi -->
-    <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
 
-Let's connect and collaborate to share knowledge in web development and networking.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Alvin An) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ardrhmnn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ardian Rahman) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ardrrhmn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ardianrahman310@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aardian23&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aardian23&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aardian23&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=ariafatah">「 Google Me 」</a>
-    <br>
-    「 I am a front-end web developer from <b>Indonesia</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+[![](https://visitcount.itsvg.in/api?id=aardian23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<?--
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
