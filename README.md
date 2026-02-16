@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am 17 years old and am currently pursuing vocational education at SMKN 1 Jakarta in the Computer and Network Engineering Department. In addition, I am also pursuing Tahfidz education at Rumah Tahfidz Asy Syuhada, and I am very interested in exploring and learning about the developments and advances in technology that are currently taking place.
+I am 18 years old and am currently pursuing vocational education at SMKN 1 Jakarta in the Computer and Network Engineering Department. In addition, I am also pursuing Tahfidz education at Rumah Tahfidz Asy Syuhada, and I am very interested in exploring and learning about the developments and advances in technology that are currently taking place.
 
 
 ## 🌐 Socials:
